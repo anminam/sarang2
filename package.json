@@ -1,0 +1,22 @@
+{
+  "name": "sarang2",
+  "version": "1.0.0",
+  "description": "lovely",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anminam/sarang2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anminam/sarang2/issues"
+  },
+  "homepage": "https://anminam.github.io/sarang2/",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
