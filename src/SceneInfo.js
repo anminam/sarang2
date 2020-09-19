@@ -44,5 +44,10 @@ class Scene {
     this.type = type;
     this.heightNum = heightNum;
     this.objs = objs;
+    this.values = values;
+  }
+
+  getVidioConfig() {
+    return this.objs.videoConfig;
   }
 }
